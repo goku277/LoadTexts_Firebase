@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859987010815",
+    "project_id": "loadtexts-firebase",
+    "storage_bucket": "loadtexts-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859987010815:android:f1fce3fbaec4efa61c58ca",
+        "android_client_info": {
+          "package_name": "com.biswadeep.loadtexts_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859987010815-p1373qd7bv9be62468rl8bn5kmu91k12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRYRTOUY623WjYHcm37TTAihEZSbQLTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859987010815-p1373qd7bv9be62468rl8bn5kmu91k12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
